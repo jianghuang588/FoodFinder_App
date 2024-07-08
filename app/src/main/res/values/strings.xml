@@ -1,0 +1,21 @@
+<resources>
+    <string name="bar">Bar</string>
+    <string name="app_name">Week3Exercise</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPass">ConfirmPass</string>
+    <string name="login">Login</string>
+    <string name="progressBar">ProgressBar</string>
+    <string name="rowTitle">RowTitle</string>
+    <string name="name">Name</string>
+    <string name="majorText">MajorText</string>
+    <string name="button">Button</string>
+    <string name="androidView">AndroidView</string>
+    <string name="tweet_title">Android Tweets near %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="confirmButton">Long Press Any Where</string>
+    <string name="current_Location"></string>
+
+    current_Location
+
+</resources>

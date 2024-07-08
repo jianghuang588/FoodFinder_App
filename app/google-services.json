@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205191414621",
+    "project_id": "android-tweet-ee1c2",
+    "storage_bucket": "android-tweet-ee1c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205191414621:android:cd43fdd7bd06b2e982deb4",
+        "android_client_info": {
+          "package_name": "com.example.week3exercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0jSEckrr1OL2i1JeOaAV_-1POUY8pZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
