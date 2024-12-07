@@ -4,6 +4,7 @@
 - Put the folder in the desirable location
 - Use the android studio to open the Food Finder App
 # App Walk Through: 
+Login and Register Page -> Food Page -> Email Share Page
 ## Login and Register Page
 ![login](https://github.com/user-attachments/assets/c0e0fd36-ec3b-4e8a-bd02-8b2567dadf41)
 ## Food Page
